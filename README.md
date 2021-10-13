@@ -1,5 +1,5 @@
 - Hi, I’m @MahmoudHamdy02, I'm a python programmer and I'm currently beginning my journey into full-stack development!
-- I'm currently working on my own portfoio website, which will be hosted here soon!
+- I'm currently working on my own portfolio website, which will be hosted here soon!
 - You can contact me at mahmoud-mahgoub1@hotmail.com
 
 <!---
