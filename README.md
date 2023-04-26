@@ -1,5 +1,4 @@
-- Hi, I’m @MahmoudHamdy02, I'm a python programmer and I'm currently beginning my journey into full-stack development!
-- I'm currently working on my own portfolio website, which you can check out here: https://mahmoudhamdyportfolio.herokuapp.com/
+- Hi, I’m @MahmoudHamdy02, I'm interested in machine learning, web development, networking and everything in between!
 - You can contact me at mahmoud-mahgoub1@hotmail.com
 
 <!---
