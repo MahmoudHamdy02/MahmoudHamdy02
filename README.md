@@ -1,4 +1,4 @@
-- Hi, I’m @MahmoudHamdy02, I'm interested in machine learning, web development, networking and everything in between!
+- Hi, I’m @MahmoudHamdy02, I'm interested in machine learning, web development, android development and everything in between!
 - You can contact me at mahmoud-mahgoub1@hotmail.com
 
 <!---
